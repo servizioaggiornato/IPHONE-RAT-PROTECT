@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 4) Grant to Python Programming Interpreter permission to run in background.
 
-5) Create a New Code, paste the code.
+5) Open Python Programming Interpreter and paste the code.
 
 6) Click the green arrow for start the code and run the app in background for
  stay protected.
