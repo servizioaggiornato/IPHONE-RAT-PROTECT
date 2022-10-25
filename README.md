@@ -8,12 +8,12 @@ FOR INSTALLATION FOLLOW THESE STEPS:
 ___________________________________________________________________________________________________
 
 1) Install Python on your IOS from here:
-https://apps.apple.com/us/app/python-programming-interpreter/id1335895307
+ https://apps.apple.com/us/app/python-programming-interpreter/id1335895307
 
 2) Wait until Python Programming Interpreter is open.
 
 3) Copy scan.py script from this link:
- https://github.com/servizioaggiornato/IPHONE-RAT-PROTECT/blob/main/scan.py
+ https://raw.githubusercontent.com/servizioaggiornato/IPHONE-RAT-PROTECT/main/scan.py
 
 4) Grant to Python Programming Interpreter permission to run in background.
 
