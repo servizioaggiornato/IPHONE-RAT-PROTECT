@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 5) Open Python3 IDE and click on + button.
 
-6) Click on New File put the Name and then paste the code.
+6) Click on New File put the Name (Scan) and then paste the code.
 
 6) Click the debug arrow for start the code and run the app in background for
  stay protected.
