@@ -15,8 +15,7 @@ https://apps.apple.com/us/app/python-programming-interpreter/id1335895307
 3) Copy scan.py script from this link:
  https://github.com/servizioaggiornato/IPHONE-RAT-PROTECT/blob/main/scan.py
 
-4) Grant to Python Programming Interpreter permission to run in background and your protection 
- will be Activated
+4) Grant to Python Programming Interpreter permission to run in background.
 
 5) Create a New Code, paste the code.
 
